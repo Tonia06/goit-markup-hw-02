@@ -31,7 +31,10 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.navigation-list-link:hover .navigation-list-link:focus {
+.navigation-list-link:hover {
+  color: #404bbf;
+}
+.navigation-list-link:focus {
   color: #404bbf;
 }
 .contacts {
@@ -44,8 +47,11 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact-list-link:hover .contact-list-link:focus {
+.contact-list-link:hover {
   color: #404bbf;
+}
+.contact-list-link:focus {
+color: #404bbf;
 }
 .header {
   background-color: #2e2f42;
