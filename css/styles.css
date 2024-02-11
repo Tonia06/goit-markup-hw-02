@@ -23,7 +23,6 @@ a {
   text-transform: uppercase;
   color: #2e2f42;
 }
-
 .navigation-list-link {
   font-weight: 500;
   font-size: 16px;
@@ -51,7 +50,7 @@ a {
   color: #404bbf;
 }
 .contact-list-link:focus {
-color: #404bbf;
+  color: #404bbf;
 }
 .header {
   background-color: #2e2f42;
