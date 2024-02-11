@@ -69,7 +69,6 @@ a {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   color: #ffffff;
 }
@@ -105,8 +104,6 @@ a {
   color: #2e2f42;
 }
 .team-list-item {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background-color: #fff;
 }
 .team-sub-tittle {
